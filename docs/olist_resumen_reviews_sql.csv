@@ -1,0 +1,11 @@
+calificacion_estrellas,estado_cumplimiento,cantidad_items,dias_entrega_promedio,dias_retraso_promedio,flete_promedio_brl,precio_promedio_brl
+1,Con Retraso,3966,35.65,11.67,22.86,139.95
+1,A Tiempo,8381,11.95,-14.24,20.25,115.83
+2,Con Retraso,654,32.69,9.44,22.09,123.51
+2,A Tiempo,2999,12.07,-13.88,20.72,112.48
+3,Con Retraso,946,29.59,7.01,22.3,125.05
+3,A Tiempo,8205,12.17,-13.16,20.07,108.0
+4,Con Retraso,1019,26.73,5.87,20.89,123.59
+4,A Tiempo,19978,11.4,-13.4,20.01,118.53
+5,Con Retraso,1877,24.32,4.3,20.89,127.14
+5,A Tiempo,60804,10.16,-13.96,19.54,121.27

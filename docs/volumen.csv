@@ -1,0 +1,11 @@
+tabla,archivo,filas,columnas,MB
+customers,olist_customers_dataset.csv,99441,5,8.62
+orders,olist_orders_dataset.csv,99441,8,16.84
+items,olist_order_items_dataset.csv,112650,7,14.72
+payments,olist_order_payments_dataset.csv,103886,5,5.51
+reviews,olist_order_reviews_dataset.csv,99224,7,13.78
+products,olist_products_dataset.csv,32951,9,2.27
+sellers,olist_sellers_dataset.csv,3095,4,0.17
+geolocation,olist_geolocation_dataset.csv,1000163,5,58.44
+translation,product_category_name_translation.csv,71,2,0.0
+TOTAL,,1550922,52,120.35

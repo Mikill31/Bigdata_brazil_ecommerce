@@ -1,0 +1,10 @@
+tabla,filas_antes,filas_despues,nulos_antes,nulos_despues,duplicadas_antes,duplicadas_despues,tipos_corregidos
+customers,99441,99441,0,0,0,0,0
+orders,99441,99441,4908,4908,0,0,5
+items,112650,112650,0,0,0,0,4
+payments,103886,103883,0,0,0,0,3
+reviews,99224,98410,145903,144644,0,0,3
+products,32951,32951,2448,1842,0,0,7
+sellers,3095,3095,0,0,0,0,0
+geolocation,1000163,19010,0,0,261831,0,2
+translation,71,73,0,0,0,0,0

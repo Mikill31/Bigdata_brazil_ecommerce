@@ -1,0 +1,10 @@
+tabla,filas,duplicadas_exactas,claves_repetidas,clave
+customers,99441,0,0,customer_id
+orders,99441,0,0,order_id
+items,112650,0,0,order_id+order_item_id
+payments,103886,0,0,order_id+payment_sequential
+reviews,99224,0,814,review_id
+products,32951,0,0,product_id
+sellers,3095,0,0,seller_id
+geolocation,1000163,261831,981148,geolocation_zip_code_prefix
+translation,71,0,0,product_category_name

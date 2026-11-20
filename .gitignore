@@ -1,0 +1,21 @@
+# Entornos virtuales y paquetes de Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Checkpoints de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Archivos temporales y de suma de verificación (.crc) de Hadoop / PySpark
+*.crc
+._SUCCESS.crc
+.part-*.crc
+
+# Archivos del sistema operativo e IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
